@@ -1,0 +1,20 @@
+.capa {
+    height: 91vh;
+    position: relative;
+    z-index: 1
+}
+
+.img-capa {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+
+}
+
+.home-text {
+    position: absolute;
+    top: 17rem;
+    left: 22rem;
+    z-index: 2;
+}
